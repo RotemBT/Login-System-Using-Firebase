@@ -8,7 +8,7 @@ First install npm for node_modules:
 
 `npm install`
 
-Second Add your API keys from firebase to >firebase.js 
+Second Add your API keys from firebase to `firebase.js` 
 
 ```
 const app = firebase.initializeApp({
